@@ -80,3 +80,4 @@ git add
 
 git branch <branch_name>
 
+## Удаление веток
